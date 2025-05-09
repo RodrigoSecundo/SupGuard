@@ -72,4 +72,5 @@ OBS: O código está voltado a rodar o projeto no android studio, com isso devid
 Caso tenha problemas para rodar o projeto, abra uma issue neste repositório ou entre em contato comigo pelo:
 
 Instagram: rodrigo_secundo
+
 Linkedin: https://www.linkedin.com/in/rodrigo-secundo-araújo-b4a682254/
