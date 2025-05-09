@@ -13,7 +13,7 @@ Antes de tudo, você precisa ter instalado:
 1. Ao baixar os códigos do projeto, vá para o diretório correto `frontend` e execute:
 
    ```bash
-   npm install
+   npm install --ci
 
 2. Siga as intruções do README.md do backend para que o backend já esteja funcionando ao executar o frontend.
 
